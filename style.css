@@ -1,0 +1,18 @@
+body{
+    background-image:url("/BG.jpeg");
+    background-size: cover;
+}
+*
+{
+    margin:0px;
+    
+}
+br,hr{
+    border:1px dotted black;
+}
+.img
+{
+   height: 200px;
+   width:200px;
+  
+}
